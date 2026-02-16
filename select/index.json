@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Over",
+  "base_artist": "Lucky Daye",
+  "createdAt": "2026-02-16T20:28:36.417917Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Getting Over Him (feat. Jon Pardi)",
+      "artist": "Lauren Alaina feat. Jon Pardi",
+      "has_synced": true,
+      "path": "select/01_Getting_Over_Him_(feat._Jon_Pardi)_Lauren_Alaina_feat._Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Getting Over Him",
+      "artist": "Lauren Alaina",
+      "has_synced": true,
+      "path": "select/02_Getting_Over_Him_Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Head Over Boots",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/03_Head_Over_Boots_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Somewhere Over the Rainbow / What a Wonderful World",
+      "artist": "Robin Schulz feat. Alle Farben & Israel Kamakawiwo'ole",
+      "has_synced": true,
+      "path": "select/04_Somewhere_Over_the_Rainbow___What_a_Wonderful_World_Robin_Schulz_feat._Alle_Farben_&_Israel_Kamakawiwo'ole.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Starting Over",
+      "artist": "Chris Stapleton",
+      "has_synced": true,
+      "path": "select/05_Starting_Over_Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift feat. Maren Morris",
+      "has_synced": true,
+      "path": "select/06_You_All_Over_Me_(feat._Maren_Morris)_(Taylor’s_Version)_(From_The_Vault)_Taylor_Swift_feat._Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You All Over Me (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/07_You_All_Over_Me_(Taylor’s_Version)_(From_The_Vault)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What If I Never Get Over You",
+      "artist": "Lady Antebellum",
+      "has_synced": true,
+      "path": "select/08_What_If_I_Never_Get_Over_You_Lady_Antebellum.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What If I Never Get Over You",
+      "artist": "Lady A",
+      "has_synced": true,
+      "path": "select/09_What_If_I_Never_Get_Over_You_Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(There's) No Gettin' Over Me",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/10_(There's)_No_Gettin'_Over_Me_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(There's) No Gettin' Over Me",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/11_(There's)_No_Gettin'_Over_Me_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(There's) No Gettin' Over Me",
+      "artist": "Ronnie Milsap",
+      "has_synced": false,
+      "path": "select/12_(There's)_No_Gettin'_Over_Me_Ronnie_Milsap.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ain't Really Over",
+      "artist": "Jameson Rodgers",
+      "has_synced": false,
+      "path": "select/13_Ain't_Really_Over_Jameson_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All My Rowdy Friends Are Coming Over Tonight",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/14_All_My_Rowdy_Friends_Are_Coming_Over_Tonight_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All Over Again",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/15_All_Over_Again_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All Over the Road",
+      "artist": "Easton Corbin",
+      "has_synced": true,
+      "path": "select/16_All_Over_the_Road_Easton_Corbin.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All Over The Road (Album Version)",
+      "artist": "Easton Corbin",
+      "has_synced": true,
+      "path": "select/17_All_Over_The_Road_(Album_Version)_Easton_Corbin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Over",
+      "artist": "Lucky Daye",
+      "has_synced": false,
+      "path": "select/pl_01_Over_Lucky_Daye.txt"
+    }
+  ]
+}
